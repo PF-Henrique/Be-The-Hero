@@ -19,24 +19,7 @@
 <img  alt="License"  src="https://img.shields.io/github/license/solrachix/be-the-hero">
 </p>
 
-<p  align="center">
-	<a  href="https://github.com/solrachix"  target="_blank">
-		<img  alt="Made by Carlos Miguel"  src="https://img.shields.io/badge/made%20by-Carlos_Miguel-informational">
-	</a>
-	<a  href="https://github.com/solrachix"  target="_blank" >
-		<img  alt="Github - Carlos Miguel"  src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
-	</a>
-	<a  href="https://www.linkedin.com/in/carlos-miguel-alves-de-oliveira-380413197/"  target="_blank" >
-		<img  alt="Linkedin - Carlos Miguel"  src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-	</a>
-	<a  href="mailto:carlos.miguel.oliveira.17@gmail.com"  target="_blank" >
-	<img  alt="Email - Carlos Miguel"  src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
-	</a>
-	<a  href="https://api.whatsapp.com/send?phone=5511969027401"
-	target="_blank" >
-		<img  alt="Fale comigo no whatsapp - Carlos Miguel"  src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
-	</a>
-</p>
+
 
 <p  align="center">
 <a  href="#computer-languages">Languages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -97,4 +80,4 @@ This project is under MIT. See at here [LICENSE](/LICENSE) for more informations
 
 ---
 
-Made by :blue_heart: by [Carlos Miguel](https://github.com/solrachix)
+Made by :blue_heart: by [Pedro Ferreira](https://github.com/PF-Henrique)
